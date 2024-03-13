@@ -1,0 +1,3 @@
+/home/dar/Desktop/test/CMakeFiles/rebuild_cache.dir
+/home/dar/Desktop/test/CMakeFiles/edit_cache.dir
+/home/dar/Desktop/test/CMakeFiles/HJK.dir
