@@ -124,7 +124,7 @@ using namespace std;
 
 int main(int argc, char** argv) {  
     // 1. 读取图像  
-    Mat img = imread("/home/WAYI/CarLaneTest/lane2.jpg");  
+    Mat img = imread("/home/WAYI/CarlaneTest/lane2.jpg");  
     if (img.empty()) {  
         cout << "Could not open or find the image!" << endl;  
         return -1;  
